@@ -16,6 +16,7 @@ output and clean file exports. Handy for bug reports, server audits and modpack 
 | `/clientlist` | `/list client` | client-side mods (side `CLIENT` or `BOTH`) |
 | `/serverlist` | `/list server` | server-side mods (side `SERVER` or `BOTH`) |
 | `/list` | `/list help` | an in-game cheat sheet |
+| `/list` | `/list player` | vanilla list of players |
 
 All commands require **permission level 2** (op / gamemaster).
 
